@@ -1,0 +1,19 @@
+﻿  StaffController.cpp
+S:\Projects\VS2019\Extension\connector\include\cppconn\sqlstring.h(45,24): warning C4251: 'sql::SQLString::realStr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLString'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+S:\Projects\VS2019\Extension\connector\include\cppconn\exception.h(78,30): warning C4251: 'sql::SQLException::sql_state': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'sql::SQLException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+S:\Projects\VS2019\Extension\connector\include\cppconn\exception.h(162,27): warning C4251: 'sql::SQLUnsupportedOptionException::option': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'sql::SQLUnsupportedOptionException'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\TextTable.h(145,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\TextTable.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\StaffController.cpp(443,29): warning C4305: 'argument': truncation from 'int' to 'char'
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\StaffController.cpp(443,14): warning C4309: 'argument': truncation of constant value
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\StaffController.cpp(580,6): warning C4101: 'sel': unreferenced local variable
+S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\FTMK_MAINTENANCE_SYSTEM_v1.0\StaffController.cpp(1020,6): warning C4101: 'action': unreferenced local variable
+  Generating code
+  1 of 777 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FTMK_MAINTENANCE_SYSTEM_v1.0.vcxproj -> S:\Projects\VS2019\FTMK_MAINTENANCE_SYSTEM_v1.0\x64\Release\FTMK_MAINTENANCE_SYSTEM_v1.0.exe
